@@ -1,0 +1,6 @@
+{
+  "name": "PrismCut",
+  "description": "Professional multi-track video editing and real-time color grading suite with 3-way color wheels, timeline trimming, LUT filters, audio tracks, and 4K export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
